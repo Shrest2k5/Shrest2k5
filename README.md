@@ -1,5 +1,4 @@
 
-
 <!-- Header Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+I'm+Shrest+Shaw+👋;Full+Stack+Developer+%7C+MERN+Stack;Software+Developer+Engineer+Aspiring;Building+Real+World+Projects+🚀">
@@ -8,9 +7,14 @@
 ---
 
 # 👨‍💻 About Me
-Hi! I'm **Shrest Shaw**, a passionate **Full Stack MERN Developer** focused on building scalable apps, modern UIs, and problem-solving through code.  
-I love learning new technologies, building real-world projects, and improving step by step.
- 
+I’m **Shrest Shaw**, a passionate **Full Stack MERN Developer** who loves creating fast, modern, and user-friendly web applications.  
+I enjoy working on real-world projects, learning new tech, and improving myself every day.
+
+✨ **What I enjoy:**  
+- Building real-world applications  
+- Clean UI design  
+- MERN Stack development  
+- Problem-solving & debugging  
 
 ---
 
@@ -22,7 +26,7 @@ I love learning new technologies, building real-world projects, and improving st
 
 ---
 
-# 🛠️ Skills (Animated Badges)
+# 🛠️ Skills
 
 ### **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
@@ -58,11 +62,20 @@ I love learning new technologies, building real-world projects, and improving st
 
 ---
 
-# 📬 Contact Me
-📧 **Email:** shrestshaw2k5@gmail.com  
-💼 **LinkedIn:** *(Add your link here)*  
-🌐 **Portfolio:** *(Coming soon!)*  
+# 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:shrestshaw2k5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/shrest-shaw-2k5/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### ⭐ If you like my work, consider giving a star to my repositories!
+### ⭐ If you like my work, consider giving a star to my repositories!  
+### 👀 Visitors Counter  
+![](https://komarev.com/ghpvc/?username=Shrest2k5&color=blue&style=flat)
+
