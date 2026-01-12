@@ -10,7 +10,7 @@
 I’m **Shrest Shaw**, a passionate **Full Stack MERN Developer** who loves creating fast, modern, and user-friendly web applications.  
 I enjoy working on real-world projects, learning new tech, and improving myself every day.
 
-<img align="right" alt="coding" width="270" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
+<img align="right" alt="coding" width="240" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 ✨ **What I enjoy:**  
 - Building real-world applications  
